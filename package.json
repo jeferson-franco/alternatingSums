@@ -1,0 +1,20 @@
+{
+  "name": "alternatingsums",
+  "version": "1.0.0",
+  "description": "Several people are standing in a row and need to be divided into two teams. The first person goes into _team 1_, the second goes into _team 2_, the third goes into _team 1_ again, the fourth into _team 2_, and so on.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/alternatingSums.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/alternatingSums/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/alternatingSums#readme"
+}
